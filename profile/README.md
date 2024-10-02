@@ -1,6 +1,6 @@
-# Hi👋, We are BlizByte
-
 <img width="1080" alt="Twitter post - 2" src="https://github.com/BlizByte/.github/assets/66572675/bbefb3d8-e392-4da2-9cc4-35456ec906db">
+
+# Hi👋, We are BlizByte
 
 BlizByteCo is a forward-thinking software development company dedicated to creating innovative, reliable, and high-performance digital solutions. We specialize in building tailored software applications that cater to the unique needs of businesses across various industries. Our expertise spans web development, mobile apps, UI/UX design, and enterprise software solutions, utilizing the latest technologies and development methodologies to ensure efficiency, scalability, and security.
 
